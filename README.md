@@ -1,2 +1,2 @@
-# Custom Track League Track List Generator
-A tracklist generator for Custom Track League, a competitive league for Mario Kart Wii
+# CTL Track List Generator
+Tempory script used for league organisation. A bit outdated now as we use a different organisation system.
